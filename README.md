@@ -22,7 +22,6 @@
 2. train a counting network with pseudo labels (run_train_counter.py)
 3. predict the location with the counting network (run_resam.py)
 4. use the prediction as prompts to generate new masks with SEEM + point prompt (run_resam.py)
-5. merge the new masks with the old masks (we can skip this now. This part needs more time)
 ```
 
 ### Citation

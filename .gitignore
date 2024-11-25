@@ -1,0 +1,4 @@
+*.pt
+__pycache__/
+clip-vit-base-patch32/
+

@@ -2,7 +2,7 @@
 
 ## installation 
 ```
-1. pip -r requirements.txt
+1. pip install -r requirements.txt
 2. git clone https://github.com/facebookresearch/detectron2.git
 3. python -m pip install -e detectron2
 4. conda install mpi4py
